@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HalalFoodChecker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_photos">Photos</string>
+    <string name="nav_dictionary">Dictionary</string>
+
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Dictionary</item>
+    </string-array>
+
+    <string name="title_activity_find_halal_camera">FindHalal</string>
+    <string name="take_picture">CheckHalal</string>
+    <string name="title_activity_dictionary">Dictionary</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_find_halal_result">FindHalalResultActivity</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="attention">Attention</string>
+    <string name="this_app_is_adapted_to_all_halal_food">This app is adapted to all Halal Food</string>
+    <string name="result_image">result_image</string>
+    <string name="enjoy_njapanese_nfood">ENJOY JAPANESE FOOD</string>
+</resources>
