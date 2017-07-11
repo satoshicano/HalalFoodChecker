@@ -84,7 +84,7 @@ public class FindHalalCameraActivity extends AppCompatActivity {
         textureView = (TextureView) findViewById(R.id.texture);
         assert textureView != null;
         textureView.setSurfaceTextureListener(textureListener);
-        Button takePictureButton = (Button) findViewById(R.id.btn_takepicture);
+        Button takePictureButton = (Button) findViewById(R.id.btn_take_picture);
         assert takePictureButton != null;
         takePictureButton.setOnClickListener(new View.OnClickListener() {
             @Override
